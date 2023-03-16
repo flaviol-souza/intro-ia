@@ -27,3 +27,4 @@ Após a abertura no browser, basta clicar no notebook desejado.
 ## Implementations A.I.
 * Aula 1: Introdução ao Pandas
 * Aula 2: Análise Exploratória de Dados
+* Aula 3: Visualização de dados
