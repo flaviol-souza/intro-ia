@@ -28,3 +28,7 @@ Após a abertura no browser, basta clicar no notebook desejado.
 * Aula 1: Introdução ao Pandas
 * Aula 2: Análise Exploratória de Dados
 * Aula 3: Visualização de dados
+* Aula 4: KNN (k-Vizinhos Mais Próximos)
+
+### Dataset 
+* Iris - https://archive.ics.uci.edu/ml/datasets/iris
