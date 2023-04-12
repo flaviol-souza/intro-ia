@@ -31,7 +31,8 @@ Após a abertura no browser, basta clicar no notebook desejado.
 * Aula 4: KNN (k-Vizinhos Mais Próximos)
 * Aula 5: Avaliação de Modelos
 * Aula 6: Árvore de Decisão
+* Aula 7: Naive Bayes
 
 ### Dataset 
 * Iris - https://archive.ics.uci.edu/ml/datasets/iris
-* 
+* Credit Risk - https://www.kaggle.com/datasets/ppb00x/credit-risk-customers
