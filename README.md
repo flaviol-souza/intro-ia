@@ -32,6 +32,7 @@ Após a abertura no browser, basta clicar no notebook desejado.
 * Aula 5: Avaliação de Modelos
 * Aula 6: Árvore de Decisão
 * Aula 7: Naive Bayes
+* Aula 8: SVM
 
 ### Dataset 
 * Iris - https://archive.ics.uci.edu/ml/datasets/iris
