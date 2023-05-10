@@ -34,8 +34,10 @@ Após a abertura no browser, basta clicar no notebook desejado.
 * Aula 7: Naive Bayes
 * Aula 8: SVM
 * Aula 9: K-Médias
+* Aula 10: Regressão Linear
 
 ### Dataset 
 * Iris - https://archive.ics.uci.edu/ml/datasets/iris
 * Credit Risk - https://www.kaggle.com/datasets/ppb00x/credit-risk-customers
 * Breast Cancer Wisconsin - https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+(diagnostic)
+* Credit Card Fraud Detection - https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
