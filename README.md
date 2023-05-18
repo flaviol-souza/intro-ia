@@ -35,6 +35,7 @@ Após a abertura no browser, basta clicar no notebook desejado.
 * Aula 8: SVM
 * Aula 9: K-Médias
 * Aula 10: Regressão Linear
+* Aula 11: Seleção de características
 
 ### Dataset 
 * Iris - https://archive.ics.uci.edu/ml/datasets/iris
