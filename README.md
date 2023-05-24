@@ -15,6 +15,7 @@ Para a execução das implementações utilize:
 pip install jupyter 
 pip install notebook
 pip install -U scikit-learn
+pip install pickle5
 ```
 
 ## Run the project
@@ -36,6 +37,7 @@ Após a abertura no browser, basta clicar no notebook desejado.
 * Aula 9: K-Médias
 * Aula 10: Regressão Linear
 * Aula 11: Seleção de características
+* Aula 12: Exportação de modelo treinado
 
 ### Dataset 
 * Iris - https://archive.ics.uci.edu/ml/datasets/iris
